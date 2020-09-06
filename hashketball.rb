@@ -5,6 +5,10 @@ require 'pry'
 def game_hash(game_info)
   game = {
     :home => {
+
+
+      
+    }
   }
   
   
