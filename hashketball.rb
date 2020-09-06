@@ -11,8 +11,8 @@ def game_hash(game_info)
 
     }
     :away => {
-      :team_name => "Brooklyn Nets"
-      :colors =>["Black, White"]
+      :team_name => "Charlotte Hornetts"
+      :colors =>["Turquoise, Purple"]
       :players => [{}]
 
     }
